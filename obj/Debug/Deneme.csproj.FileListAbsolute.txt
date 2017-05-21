@@ -1,0 +1,13 @@
+c:\users\emree_000\documents\visual studio 2013\Projects\Deneme\Deneme\bin\Debug\Deneme.exe.config
+C:\Users\emree_000\Desktop\Deneme\Deneme\bin\Debug\Deneme.exe.config
+C:\Users\emree_000\Desktop\Deneme\Deneme\bin\Debug\Deneme.exe
+C:\Users\emree_000\Desktop\Deneme\Deneme\bin\Debug\Deneme.pdb
+C:\Users\emree_000\Desktop\Deneme\Deneme\obj\Debug\Deneme.csprojResolveAssemblyReference.cache
+C:\Users\emree_000\Desktop\Deneme\Deneme\obj\Debug\Deneme.exe
+C:\Users\emree_000\Desktop\Deneme\Deneme\obj\Debug\Deneme.pdb
+C:\Users\emree_000\Desktop\Deneme2\Deneme\bin\Debug\Deneme.exe.config
+C:\Users\emree_000\Desktop\Deneme2\Deneme\obj\Debug\Deneme.exe
+C:\Users\emree_000\Desktop\Deneme2\Deneme\obj\Debug\Deneme.pdb
+C:\Users\emree_000\Desktop\Deneme2\Deneme\bin\Debug\Deneme.exe
+C:\Users\emree_000\Desktop\Deneme2\Deneme\bin\Debug\Deneme.pdb
+C:\Users\emree_000\Desktop\Deneme2\Deneme\obj\Debug\Deneme.csprojResolveAssemblyReference.cache
